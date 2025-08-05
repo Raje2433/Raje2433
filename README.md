@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello, I'm Raje!
 
-<!--
-**Raje2433/Raje2433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Java Backend Developer**  
+💡 Passionate about backend development & mastering data structures  
+🚀 Currently learning Java and working on daily **Java DSA Tasks**  
+🔭 Planning to build a **Tuition ERP System** soon
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack (Learning & Using)
+- Java ☕
+- Spring Boot 🌱
+- MySQL 🐬
+
+---
+
+### 📂 Learning Projects
+- 📗 [Daily Java DSA Tasks](https://github.com/Raje2433/Daily-Java-Tasks)
+- 🧪 Tuition ERP (Coming soon!)
+
+---
+
+### 📈 GitHub Stats
+![Raje's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raje2433&show_icons=true&theme=radical)
+
+---
+
+
+⭐️ Thank you for visiting my profile!
