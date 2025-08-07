@@ -26,21 +26,21 @@
 
 ---
 
-## 📊 GitHub Stats
+---
 
-![Raje's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raje2433&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raje2433&layout=compact&theme=radical)
+## 📊 Technology Usage (from GitHub Stats)
+
+| Tech Stack     | GitHub Usage % | GitHub Projects |
+|----------------|----------------|------------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | 🟩🟩🟩🟩🟩 85% | Daily DSA, Tuition ERP |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | 🟩🟩⬜⬜⬜ 30% | Tuition ERP |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | 🟩⬜⬜⬜⬜ 20% | Tuition ERP (planned) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | 🟩🟩🟩🟩⬜ 70% | All Repos |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | 🟩🟩🟩🟩🟩 100% | All Projects Pushed |
 
 ---
 
-## 📬 Connect With Me *(Coming Soon)*
+### 📈 GitHub Language Stats
 
-<!-- You can add these once ready -->
-<!-- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com) 
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raje2433&layout=compact&theme=radical)
 
----
-
-⭐️ *Thank you for visiting my profile! Stay tuned for more updates.*  
