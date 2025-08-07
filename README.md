@@ -3,7 +3,7 @@
 🎯 **Aspiring Java Backend Developer**  
 💡 Passionate about backend development & mastering data structures  
 🚀 Currently learning Java and working on daily **Java DSA Tasks**  
-🔭 Planning to build a **Tuition ERP System** soon
+
 
 ---
 
