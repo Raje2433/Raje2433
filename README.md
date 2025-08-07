@@ -16,7 +16,7 @@
 
 ### 📂 Learning Projects
 - 📗 [Daily Java DSA Tasks](https://github.com/Raje2433/Daily-Java-Tasks)
-- 🧪 Tuition ERP (Coming soon!)
+- 📗 [Leetcode java solutions](https://github.com/Raje2433/Daily-Java-Tasks)
 
 ---
 
