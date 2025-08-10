@@ -1,29 +1,39 @@
-# 👋 Hello, I'm Raje!
+# Hi there, I'm Raje! 👋  
 
-🎯 **Aspiring Java Backend Developer**  
-💡 Passionate about backend development & mastering data structures  
-🚀 Currently learning Java and working on daily **Java DSA Tasks**  
-🔭 Planning to build a **Tuition ERP System** soon
+## 🚀 Aspiring Backend Developer | Java Enthusiast  
 
----
-
-### 🛠️ Tech Stack (Learning & Using)
-- Java ☕
-- Spring Boot 🌱
-- MySQL 🐬
+I’m passionate about building **efficient, scalable backend systems** and solving problems using **Data Structures & Algorithms**.  
+Currently sharpening my expertise in **Java** and exploring modern backend technologies to prepare for high-impact developer roles.  
 
 ---
 
-### 📂 Learning Projects
-- 📗 [Daily Java DSA Tasks](https://github.com/Raje2433/Daily-Java-Tasks)
-- 🧪 Tuition ERP (Coming soon!)
+## 🛠 Tech Stack  
+- **Languages:** Java  
+- **Frameworks:** Spring Boot  
+- **Databases:** MySQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ IDEA  
+- **Core Skills:** Backend Development, REST APIs, Problem Solving  
 
 ---
 
-### 📈 GitHub Stats
-![Raje's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raje2433&show_icons=true&theme=radical)
+## 📈 Current Focus  
+- Mastering **Java** & **Spring Boot** for enterprise-grade applications  
+- Daily practice on **LeetCode** & **GeeksforGeeks** to strengthen problem-solving  
+- Building small backend projects to apply new concepts in real-world scenarios  
 
 ---
 
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raje2433&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raje2433&layout=compact&theme=radical)  
 
-⭐️ Thank you for visiting my profile!
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/)  
+
+---
+
+⭐ **"Code. Learn. Improve. Repeat."**
