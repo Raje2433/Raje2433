@@ -40,7 +40,11 @@ Currently sharpening my expertise in **Java** and exploring modern backend techn
 ---
 
 ## 💻 Competitive Programming Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Raje_24?theme=dark&font=Baloo%202&ext=activity)  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Raje_24?theme=dark&font=Baloo%202" alt="LeetCode Stats"/>
+</p>
+ 
 
 
 ---
