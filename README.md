@@ -3,7 +3,7 @@
 ## 🚀 Aspiring Backend Developer | Java Enthusiast  
 
 I’m passionate about building **efficient, scalable backend systems** and solving problems using **Data Structures & Algorithms**.  
-Currently sharpening my expertise in **Java** and exploring modern backend technologies to prepare for high-impact developer roles.  
+Currently sharpening my expertise in **Java** and exploring modern backend technologies to prepare for **high-impact developer roles**.  
 
 ---
 
