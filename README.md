@@ -32,12 +32,13 @@ Currently sharpening my expertise in **Java** and exploring modern backend techn
 
 ## 💻 Competitive Programming Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Raje_24?theme=dark&font=Baloo%202&ext=activity)  
-![GFG Badge](https://img.shields.io/badge/GeeksforGeeks%20Profile-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)  
+ [![My GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<loorthuraqrl3>)](https://auth.geeksforgeeks.org/user/<loorthuraqrl3>/practice)
+
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/loorthu-rajeshwari)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loorthu-rajeshwari/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Raje_24/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/loorthuraqrl3/)  
 
