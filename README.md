@@ -27,9 +27,15 @@ Currently sharpening my expertise in **Java** and exploring modern backend techn
 ---
 
 ## 📊 GitHub Stats & Activity  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raje2433&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raje2433&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Raje2433&theme=radical&hide_border=true)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raje2433&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raje2433&layout=compact&theme=radical" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Raje2433&theme=radical&hide_border=true" height="180px"/>
+</p>
 
 ---
 
