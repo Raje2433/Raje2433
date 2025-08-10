@@ -32,7 +32,7 @@ Currently sharpening my expertise in **Java** and exploring modern backend techn
 
 ## 💻 Competitive Programming Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Raje_24?theme=dark&font=Baloo%202&ext=activity)  
- [![My GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<loorthuraqrl3>)](https://auth.geeksforgeeks.org/user/<loorthuraqrl3>/practice)
+![My GFG Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=<loorthuraqrl3>)](https://auth.geeksforgeeks.org/user/<loorthuraqrl3>/practice)
 
 
 ---
